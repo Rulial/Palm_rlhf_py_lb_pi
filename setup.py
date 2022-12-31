@@ -9,7 +9,7 @@ setup(
   author = 'Phil Wang',
   author_email = 'lucidrains@gmail.com',
   long_description_content_type = 'text/markdown',
-  url = 'https://github.com/lucidrains/PaLM-rlhf-pytorch',
+  url = 'https://github.com/Rulial/Palm_rlhf_py_lb_pi',
   keywords = [
     'artificial intelligence',
     'deep learning',
